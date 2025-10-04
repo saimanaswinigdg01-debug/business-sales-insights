@@ -43,17 +43,6 @@ The dataset includes:
 - **Category** – Product type (Bars, Bites, Others)  
 - **Region** – Geographical sales location  
 
-*(Sample or anonymized data used for demonstration.)*
-
----
-
-## 📸 Dashboard Preview
-| Salesperson Performance | Category & Regional Insights |
-|------------------------|------------------------------|
-| ![Salesperson](./PowerBI_Dashboard_Screenshots/salesperson_performance.png) | ![Category](./PowerBI_Dashboard_Screenshots/category_geo.png) |
-
----
-
 ## 🏁 Outcome
 This project demonstrates:
 - Effective **data storytelling** using KPIs and visuals  
